@@ -6,6 +6,19 @@
 
 I'm a web software developer at the [Visualization Design Lab (VDL)](https://vdl.sci.utah.edu/) at the [University of Utah](https://www.utah.edu/). I'm passionate about creating software that improves people's lives through thoughtful design and practical functionality. I earned my B.S. in Computer Science from the University of Utah in 2024, specializing in web and app development.
 
+## 🚀 Current Project
+
+I'm currently working on [reVISit](https://revisit.dev/), a powerful platform that enables researchers to effortlessly design, publish, and share custom visualization studies. Explore our work at [reVISit.dev](https://revisit.dev/)!
+
+<div align="center">
+  <a href="https://revisit.dev/study">
+    <img src="https://img.shields.io/badge/reVISit-2.1-009485?logo=revisit&logoColor=white" />
+  </a>
+  <a href="https://github.com/reVISit-studies/">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" />
+  </a>
+</div>
+
 ## 💻 Tech Stack
 
 ### Programming Languages
