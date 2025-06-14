@@ -1,25 +1,80 @@
 # Hi there, I'm Jay 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=Web+Software+Developer;" alt="Typing SVG" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5Mzg0MzcsIm5iZiI6MTc0OTkzODEzNywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDIxNTUzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNzJmM2ZlZjk0YTE4ODJkMGFmMzM3ZTA2ZTI5ZjQxNzZhM2FmNDJhMWI5OGMzOTY3ZTRlZDA0ZmJiYjM5ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6bWiauoR_F5EMykMaqXJqgEioluWi1QkG8wkTTArrn0" alt="Website Development" />
 </div>
 
 I'm a web software developer at the [Visualization Design Lab (VDL)](https://vdl.sci.utah.edu/) at the [University of Utah](https://www.utah.edu/). I'm passionate about creating software that improves people's lives through thoughtful design and practical functionality. I earned my B.S. in Computer Science from the University of Utah in 2024, specializing in web and app development.
 
 ## 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+### Programming Languages
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
+</div>
+
+### Frameworks & Libraries
+<div>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
+</div>
+
+### Databases
+<div>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff" />
+</div>
+
+### Data Science Tools
+<div>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
+</div>
+
+### Development Tools
+<div>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
+</div>
+
+### Design & Documentation
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
+  <img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" />
+</div>
+
+### Collaboration Tools
+<div>
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white" />
+</div>
+
+### Cloud Services
+<div>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
@@ -30,16 +85,19 @@ I'm a web software developer at the [Visualization Design Lab (VDL)](https://vdl
 ## 🤝 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/ye0njaekim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
+  <a href="https://leetcode.com/yeonjaekimjay">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="mailto:yeonjae.kim.jay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0008-7531-5505">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white" />
   </a>
   <a href="https://yeonkim1213.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white" />
   </a>
 </div>
 
