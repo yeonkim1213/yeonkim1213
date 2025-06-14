@@ -1,4 +1,7 @@
 # Hi there, I'm Jay 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yeonkim1213&style=for-the-badge&color=blue&style=plastic" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5Mzg0MzcsIm5iZiI6MTc0OTkzODEzNywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDIxNTUzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNzJmM2ZlZjk0YTE4ODJkMGFmMzM3ZTA2ZTI5ZjQxNzZhM2FmNDJhMWI5OGMzOTY3ZTRlZDA0ZmJiYjM5ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6bWiauoR_F5EMykMaqXJqgEioluWi1QkG8wkTTArrn0" alt="Website Development" />
@@ -100,9 +103,6 @@ I'm currently working on [reVISit](https://revisit.dev/), a powerful platform th
   <a href="https://linkedin.com/in/ye0njaekim">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
-  <a href="https://leetcode.com/yeonjaekimjay">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" />
-  </a>
   <a href="mailto:yeonjae.kim.jay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
@@ -112,9 +112,4 @@ I'm currently working on [reVISit](https://revisit.dev/), a powerful platform th
   <a href="https://yeonkim1213.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white" />
   </a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeonkim1213&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
