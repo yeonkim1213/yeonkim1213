@@ -80,14 +80,6 @@ I'm currently working on [reVISit](https://revisit.dev/), a powerful platform th
   <img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" />
 </div>
 
-### Collaboration Tools
-<div>
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white" />
-</div>
-
 ### Cloud Services
 <div>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
