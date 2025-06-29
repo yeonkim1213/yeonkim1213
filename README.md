@@ -11,7 +11,7 @@ I'm a web software developer at the [Visualization Design Lab (VDL)](https://vdl
 
 ## 🚀 Current Project
 
-I'm currently working on [reVISit](https://revisit.dev/), a powerful platform that enables researchers to effortlessly design, publish, and share custom visualization studies. Explore our work at [reVISit.dev](https://revisit.dev/)!
+I'm currently working on [ReVISit](https://revisit.dev/), a powerful platform that enables researchers to effortlessly design, publish, and share custom visualization studies. Explore our work at [reVISit.dev](https://revisit.dev/)!
 
 <div align="center">
   <a href="https://revisit.dev/study">
