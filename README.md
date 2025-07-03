@@ -38,7 +38,6 @@ I'm currently working on [ReVISit](https://revisit.dev/), a powerful platform th
 ### Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
@@ -50,39 +49,7 @@ I'm currently working on [ReVISit](https://revisit.dev/), a powerful platform th
 <div>
   <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff" />
-</div>
-
-### Data Science Tools
-<div>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
-</div>
-
-### Development Tools
-<div>
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" />
-</div>
-
-### Design & Documentation
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
-  <img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" />
-</div>
-
-### Cloud Services
-<div>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
