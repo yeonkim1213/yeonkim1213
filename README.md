@@ -42,7 +42,6 @@ I'm currently working on [ReVISit](https://revisit.dev/), a powerful platform th
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
 </div>
 
 ### Databases
