@@ -19,33 +19,6 @@ I'm a web software developer at the [Visualization Design Lab (VDL)](https://vdl
 
 I'm currently working on [ReVISit](https://revisit.dev/), a powerful platform that enables researchers to effortlessly design, publish, and share custom visualization studies. Explore our work at [reVISit.dev](https://revisit.dev/)!
 
-## 💻 Tech Stack
-
-### Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
-</div>
-
-### Frameworks & Libraries
-<div>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
-</div>
-
-### Databases
-<div>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff" />
-</div>
-
 ## 🤝 Connect With Me
 <div>
   <a href="https://linkedin.com/in/ye0njaekim">
