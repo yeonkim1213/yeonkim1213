@@ -46,13 +46,8 @@ I'm currently working on [ReVISit](https://revisit.dev/), a powerful platform th
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff" />
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeonkim1213&theme=dark&hide_border=true" alt="GitHub Statistics" />
-</div>
-
 ## 🤝 Connect With Me
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/ye0njaekim">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
