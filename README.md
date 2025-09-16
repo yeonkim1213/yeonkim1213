@@ -10,7 +10,7 @@ I'm a web software developer at the [Visualization Design Lab (VDL)](https://vdl
 
 <div align="right">
   <a href="https://revisit.dev/study">
-    <img src="https://img.shields.io/badge/reVISit-2.1-009485?logo=revisit&logoColor=white" />
+    <img src="https://img.shields.io/badge/reVISit-2.2-009485?logo=revisit&logoColor=white" />
   </a>
   <a href="https://github.com/reVISit-studies/">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" />
